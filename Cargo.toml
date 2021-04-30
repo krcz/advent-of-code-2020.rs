@@ -1,0 +1,158 @@
+[package]
+name = "advent"
+version = "0.1.0"
+authors = ["Marcin Kurczych <krcz@krcz.eu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1"
+itertools = "0.9.0"
+fixedbitset = "0.3.1"
+lazy_static = "1.4.0"
+bit-vec = "0.6"
+
+[[bin]]
+name = "day01a"
+path = "src/day01a.rs"
+
+[[bin]]
+name = "day01b"
+path = "src/day01b.rs"
+
+[[bin]]
+name = "day02a"
+path = "src/day02a.rs"
+
+[[bin]]
+name = "day02b"
+path = "src/day02b.rs"
+
+[[bin]]
+name = "day03a"
+path = "src/day03a.rs"
+
+[[bin]]
+name = "day03b"
+path = "src/day03b.rs"
+
+[[bin]]
+name = "day04a"
+path = "src/day04a.rs"
+
+[[bin]]
+name = "day04b"
+path = "src/day04b.rs"
+
+[[bin]]
+name = "day05a"
+path = "src/day05a.rs"
+
+[[bin]]
+name = "day05b"
+path = "src/day05b.rs"
+
+[[bin]]
+name = "day06a"
+path = "src/day06a.rs"
+
+[[bin]]
+name = "day07a"
+path = "src/day07a.rs"
+
+[[bin]]
+name = "day07b"
+path = "src/day07b.rs"
+
+[[bin]]
+name = "day08a"
+path = "src/day08a.rs"
+
+[[bin]]
+name = "day08b"
+path = "src/day08b.rs"
+
+[[bin]]
+name = "day09a"
+path = "src/day09a.rs"
+
+[[bin]]
+name = "day09b"
+path = "src/day09b.rs"
+
+[[bin]]
+name = "day10a"
+path = "src/day10a.rs"
+
+[[bin]]
+name = "day10b"
+path = "src/day10b.rs"
+
+[[bin]]
+name = "day11a"
+path = "src/day11a.rs"
+
+[[bin]]
+name = "day11b"
+path = "src/day11b.rs"
+
+[[bin]]
+name = "day12a"
+path = "src/day12a.rs"
+
+[[bin]]
+name = "day12b"
+path = "src/day12b.rs"
+
+[[bin]]
+name = "day13a"
+path = "src/day13a.rs"
+
+[[bin]]
+name = "day13b"
+path = "src/day13b.rs"
+
+[[bin]]
+name = "day14a"
+path = "src/day14a.rs"
+
+[[bin]]
+name = "day14b"
+path = "src/day14b.rs"
+
+[[bin]]
+name = "day15a"
+path = "src/day15a.rs"
+
+[[bin]]
+name = "day16a"
+path = "src/day16a.rs"
+
+[[bin]]
+name = "day16b"
+path = "src/day16b.rs"
+
+[[bin]]
+name = "day17a"
+path = "src/day17a.rs"
+
+[[bin]]
+name = "day17b"
+path = "src/day17b.rs"
+
+[[bin]]
+name = "day18a"
+path = "src/day18a.rs"
+
+[[bin]]
+name = "day18b"
+path = "src/day18b.rs"
+
+[[bin]]
+name = "day19a"
+path = "src/day19a.rs"
+
+[[bin]]
+name = "day20a"
+path = "src/day20a.rs"
